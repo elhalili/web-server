@@ -1,6 +1,5 @@
 Here's the formatted README.md:
 
-```markdown
 # Multithreading Web Server in C++
 
 This project is a multithreading HTTP web server implemented in C++.
