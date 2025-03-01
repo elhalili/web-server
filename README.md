@@ -1,5 +1,3 @@
-Here's the formatted README.md:
-
 # Multithreading Web Server in C++
 
 This project is a multithreading HTTP web server implemented in C++.
@@ -101,18 +99,4 @@ catch (const std::exception &e)
     return 1;
 }
 ```
-
-## Contributing
-
-We welcome contributions from the community to improve the Multithreading Web Server in C++ project. If you'd like to contribute, please follow these guidelines:
-
-- **Bug Reports**: If you encounter a bug, please open an issue on GitHub with a detailed description of the problem, including steps to reproduce it.
-- **Feature Requests**: If you have a feature request or an idea for improvement, please open an issue on GitHub to discuss it.
-- **Pull Requests**: If you'd like to contribute code, please fork the repository, create a new branch, commit your changes, and then open a pull request on GitHub.
-
-We appreciate your contributions in making this project better for everyone!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
